@@ -1,7 +1,7 @@
 <p align="center">
   
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=100&lines=%D0%9D%D0%90%D0%A1%D0%A2%D0%AF%2C+%D0%9D%D0%95+%D0%A1%D0%9C%D0%95%D0%99+%D0%9A%D0%A0%D0%90%D0%A1%D0%A2%D0%AC+%D0%9B%D0%90%D0%91%D0%A3+%D0%A3+%D0%93%D0%A3%D0%A0%D0%A1%D0%9A%D0%9E%D0%93%D0%9E%21" alt="Анимированный текст">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=F73FF5&width=450&lines=%D0%A8%D0%92%D0%95%D0%94+%D0%A1%D0%9A%D0%90%D0%A2%D0%90%D0%9B+%D0%92%D0%A1%D0%81+%D0%A1+GPT%F0%9F%9A%A8%F0%9F%9A%A8%E2%9D%97%E2%9D%97" alt="Анимированный текст">
   <br>
   <br>
   
